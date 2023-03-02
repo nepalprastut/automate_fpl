@@ -1,3 +1,2 @@
 # automate_fpl
-# A breif insight on automating fantasy premier league browser using selenium in python.
-# Great help while trying to decide the winner while you're playing with your friends in a private league.
+# small script to automate the boring task of going through your fantasy leagues every week to decide the winner
